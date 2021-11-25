@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace plain_sieve
 {
@@ -20,7 +21,7 @@ namespace plain_sieve
 
         private static void computePrimesUpToN(int n)
         {
-            var primes = new BitArray(n, true);
+            var primes = Enumerable.Repeat(true, n).ToArray();
             primes[0] = primes[1] = false;
 
             var endpoint = Math.Sqrt(n);
@@ -35,12 +36,12 @@ namespace plain_sieve
             DisplayPrimes(primes);
         }
 
-        private static void DisplayPrimes(BitArray primes)
+        private static void DisplayPrimes(bool[] primes)
         {
             var result = new List<string>();
             for (var i = 0; i < primes.Length; i++)
             {
-                if (primes.Get(i))
+                if (primes[i])
                 {
                     result.Add(i.ToString());
                 }
