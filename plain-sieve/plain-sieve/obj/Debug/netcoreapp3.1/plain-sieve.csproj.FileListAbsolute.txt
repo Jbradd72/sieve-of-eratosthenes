@@ -1,0 +1,13 @@
+D:\Users\Jeff Bradley\Documents\sieve-of-eratosthenes\plain-sieve\plain-sieve\bin\Debug\netcoreapp3.1\plain-sieve.exe
+D:\Users\Jeff Bradley\Documents\sieve-of-eratosthenes\plain-sieve\plain-sieve\bin\Debug\netcoreapp3.1\plain-sieve.deps.json
+D:\Users\Jeff Bradley\Documents\sieve-of-eratosthenes\plain-sieve\plain-sieve\bin\Debug\netcoreapp3.1\plain-sieve.runtimeconfig.json
+D:\Users\Jeff Bradley\Documents\sieve-of-eratosthenes\plain-sieve\plain-sieve\bin\Debug\netcoreapp3.1\plain-sieve.runtimeconfig.dev.json
+D:\Users\Jeff Bradley\Documents\sieve-of-eratosthenes\plain-sieve\plain-sieve\bin\Debug\netcoreapp3.1\plain-sieve.dll
+D:\Users\Jeff Bradley\Documents\sieve-of-eratosthenes\plain-sieve\plain-sieve\bin\Debug\netcoreapp3.1\plain-sieve.pdb
+D:\Users\Jeff Bradley\Documents\sieve-of-eratosthenes\plain-sieve\plain-sieve\obj\Debug\netcoreapp3.1\plain-sieve.csprojAssemblyReference.cache
+D:\Users\Jeff Bradley\Documents\sieve-of-eratosthenes\plain-sieve\plain-sieve\obj\Debug\netcoreapp3.1\plain-sieve.AssemblyInfoInputs.cache
+D:\Users\Jeff Bradley\Documents\sieve-of-eratosthenes\plain-sieve\plain-sieve\obj\Debug\netcoreapp3.1\plain-sieve.AssemblyInfo.cs
+D:\Users\Jeff Bradley\Documents\sieve-of-eratosthenes\plain-sieve\plain-sieve\obj\Debug\netcoreapp3.1\plain-sieve.csproj.CoreCompileInputs.cache
+D:\Users\Jeff Bradley\Documents\sieve-of-eratosthenes\plain-sieve\plain-sieve\obj\Debug\netcoreapp3.1\plain-sieve.dll
+D:\Users\Jeff Bradley\Documents\sieve-of-eratosthenes\plain-sieve\plain-sieve\obj\Debug\netcoreapp3.1\plain-sieve.pdb
+D:\Users\Jeff Bradley\Documents\sieve-of-eratosthenes\plain-sieve\plain-sieve\obj\Debug\netcoreapp3.1\plain-sieve.genruntimeconfig.cache
